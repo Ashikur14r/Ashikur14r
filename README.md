@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 <!-- Professional Contact Badges -->
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ashikur14r@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashikur14r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://github.com/ashikur14r/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
