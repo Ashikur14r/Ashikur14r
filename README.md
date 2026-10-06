@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ashikur+Rahman;Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Linux+%7C+Automation" alt="Typing SVG" />
 </h1>
@@ -30,12 +29,12 @@
 
 ## 🧑‍💻 About Me
 
-I am currently on my learning journey into **DevOps, Cloud Computing, and Site Reliability Engineering (SRE)**. I have a strong foundation in core programming and am now focused on bridging the gap between development and operations through automation and cloud infrastructure.
+I am currently on my learning journey into **DevOps, Cloud Computing, and Site Reliability Engineering (SRE)**. I believe that to automate infrastructure effectively, you must first understand the full stack—from the core code and databases to the web servers and cloud networks.
 
-- 🌱 **Currently Learning:** AWS Cloud, Linux Administration, and CI/CD pipelines.
-- 📜 **Goal:** Studying for AWS Certified Cloud Practitioner / Solutions Architect Associate.
-- 🔭 **Working On:** Building automated deployment workflows and Infrastructure as Code (IaC).
-- 💡 **Focus:** Writing clean code and building scalable, secure, highly available systems.
+- 🌱 **Currently Learning:** AWS Cloud, Linux Administration, Database Management, and CI/CD pipelines.
+-  **Goal:** Studying for AWS Certified Cloud Practitioner / Solutions Architect Associate.
+- 🔭 **Working On:** Building automated deployment workflows, Infrastructure as Code (IaC), and high-availability architectures.
+- 💡 **Focus:** Bridging the gap between development and operations through automation, observability, and reliability.
 - 📫 **Reach me:** [ashikur14r@gmail.com](mailto:ashikur14r@gmail.com)
 
 > *"Reliability is not an accident. It's engineered."*
@@ -44,27 +43,32 @@ I am currently on my learning journey into **DevOps, Cloud Computing, and Site R
 
 ## 📂 Featured Projects
 
-- 🌩️ **[AWS 3-Tier Architecture](https://github.com/Ashikur14r/portfolio):** Deployed a highly available web application using EC2, RDS, and ALB, automated with Terraform.
--  **[Automated CI/CD Pipeline](https://github.com/Ashikur14r/portfolio):** Built a GitHub Actions workflow to automatically test, build, and deploy a containerized app to AWS.
--  **[Monitoring & Observability Stack](https://github.com/Ashikur14r/portfolio):** Set up Prometheus and Grafana to monitor server metrics and create custom dashboards.
+- 🌩️ **[AWS 3-Tier Architecture](https://github.com/Ashikur14r/portfolio):** Deployed a highly available web app using EC2, RDS (MySQL), and ALB, automated with Terraform.
+- 🗄️ **[Containerized LAMP/LEMP Stack](https://github.com/Ashikur14r/portfolio):** Dockerized a web application with Nginx, PHP/Node.js, and MySQL, orchestrated via Docker Compose.
+- 🔄 **[Automated CI/CD Pipeline](https://github.com/Ashikur14r/portfolio):** Built a GitHub Actions workflow to automatically test, build, and deploy code to AWS with zero downtime.
 
 ---
 
-## 🛠️ Technical Arsenal
+## ️ Engineering Dashboard
 
-### 💻 Programming & Web Development
+### 💻 Core Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,bootstrap&perline=9" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,bootstrap&perline=9" alt="Programming & Web" />
+</p>
+
+### 🗄️ Databases & Web Servers
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,nginx&perline=5" alt="Databases & Servers" />
 </p>
 
 ### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,bash,githubactions&perline=8" alt="DevOps & Cloud Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,bash,githubactions,ansible&perline=9" alt="DevOps & Cloud" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashikur14r&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
