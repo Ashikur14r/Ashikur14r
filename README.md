@@ -32,7 +32,7 @@
 I am currently on my learning journey into **DevOps, Cloud Computing, and Site Reliability Engineering (SRE)**. I believe that to automate infrastructure effectively, you must first understand the full stack—from the core code and databases to the web servers and cloud networks.
 
 - 🌱 **Currently Learning:** AWS Cloud, Linux Administration, Database Management, and CI/CD pipelines.
--  **Goal:** Studying for AWS Certified Cloud Practitioner / Solutions Architect Associate.
+- 📜 **Goal:** Studying for AWS Certified Cloud Practitioner / Solutions Architect Associate.
 - 🔭 **Working On:** Building automated deployment workflows, Infrastructure as Code (IaC), and high-availability architectures.
 - 💡 **Focus:** Bridging the gap between development and operations through automation, observability, and reliability.
 - 📫 **Reach me:** [ashikur14r@gmail.com](mailto:ashikur14r@gmail.com)
@@ -49,11 +49,11 @@ I am currently on my learning journey into **DevOps, Cloud Computing, and Site R
 
 ---
 
-## ️ Engineering Dashboard
+## 🛠️ Engineering Dashboard
 
 ### 💻 Core Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,bootstrap&perline=9" alt="Programming & Web" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,bootstrap&perline=5" alt="Programming & Web" />
 </p>
 
 ### 🗄️ Databases & Web Servers
@@ -63,7 +63,7 @@ I am currently on my learning journey into **DevOps, Cloud Computing, and Site R
 
 ### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,bash,githubactions,ansible&perline=9" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,bash,githubactions,ansible&perline=5" alt="DevOps & Cloud" />
 </p>
 
 ---
