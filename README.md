@@ -41,14 +41,6 @@ I am currently on my learning journey into **DevOps, Cloud Computing, and Site R
 
 ---
 
-## 📂 Featured Projects
-
-- 🌩️ **[AWS 3-Tier Architecture](https://github.com/Ashikur14r/portfolio):** Deployed a highly available web app using EC2, RDS (MySQL), and ALB, automated with Terraform.
-- 🗄️ **[Containerized LAMP/LEMP Stack](https://github.com/Ashikur14r/portfolio):** Dockerized a web application with Nginx, PHP/Node.js, and MySQL, orchestrated via Docker Compose.
-- 🔄 **[Automated CI/CD Pipeline](https://github.com/Ashikur14r/portfolio):** Built a GitHub Actions workflow to automatically test, build, and deploy code to AWS with zero downtime.
-
----
-
 ## 🛠️ Engineering Dashboard
 
 ### 💻 Core Programming & Web
@@ -84,7 +76,7 @@ I am currently on my learning journey into **DevOps, Cloud Computing, and Site R
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashikur14r/Ashikur14r/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/Ashikur14r/Ashikur14r/snake-output/snake.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center">
