@@ -1,87 +1,88 @@
-<h1 align="center">Hey, I'm Ashikur Rahman 👋</h1>
 
-<!-- Interactive Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ashikur+Rahman;Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Linux+%7C+Automation" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+  <strong>Automating infrastructure. Building reliable systems. Learning every day.</strong>
 </p>
 
 <p align="center">
-  <em>Building useful software and exploring what’s possible with cloud and AI.</em>
-</p>
-
-<!-- Contact Badges -->
-<p align="center">
+  <a href="https://www.linkedin.com/in/ashikur14r/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ashikur14r/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://dev.to/ashikur14r" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog" />
+  </a>
   <a href="mailto:ashikur14r@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ashikur14r/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://github.com/ashikur14r/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7c3aed?style=for-the-badge&logo=About.me&logoColor=white" alt="Visit my portfolio" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashikur14r&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 What I’m about
+## 🧑‍💻 About Me
 
-I enjoy turning ideas into dependable software. My focus is on building scalable applications, designing clean APIs, and exploring how cloud platforms and AI can solve practical problems.
+I am currently on my learning journey into **DevOps, Cloud Computing, and Site Reliability Engineering (SRE)**. I have a strong foundation in core programming and am now focused on bridging the gap between development and operations through automation and cloud infrastructure.
 
-- 🔭 **Building:** Robust applications and production-ready AI integrations
-- 🌱 **Learning:** Cloud architecture, system design, and LLM applications
-- 💬 **Ask me about:** Full-stack development, APIs, databases, and DevOps
+- 🌱 **Currently Learning:** AWS Cloud, Linux Administration, and CI/CD pipelines.
+- 📜 **Goal:** Studying for AWS Certified Cloud Practitioner / Solutions Architect Associate.
+- 🔭 **Working On:** Building automated deployment workflows and Infrastructure as Code (IaC).
+- 💡 **Focus:** Writing clean code and building scalable, secure, highly available systems.
 - 📫 **Reach me:** [ashikur14r@gmail.com](mailto:ashikur14r@gmail.com)
 
-> *“Write code that is easy to delete, not just easy to extend.”*
+> *"Reliability is not an accident. It's engineered."*
 
 ---
 
-## 🛠️ My toolkit
-<!-- Note: I added #gh-dark-mode-only and #gh-light-mode-only so your icons invert perfectly depending on the user's GitHub theme! -->
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,js,go,react,nextjs,nodejs,tailwind,docker,aws,postgres,mongodb,redis&perline=7&theme=dark#gh-dark-mode-only" alt="Dark Mode Toolkit" />
-  <img src="https://skillicons.dev/icons?i=ts,py,js,go,react,nextjs,nodejs,tailwind,docker,aws,postgres,mongodb,redis&perline=7&theme=light#gh-light-mode-only" alt="Light Mode Toolkit" />
-</p>
+- 🌩️ **[AWS 3-Tier Architecture](https://github.com/Ashikur14r/portfolio):** Deployed a highly available web application using EC2, RDS, and ALB, automated with Terraform.
+-  **[Automated CI/CD Pipeline](https://github.com/Ashikur14r/portfolio):** Built a GitHub Actions workflow to automatically test, build, and deploy a containerized app to AWS.
+-  **[Monitoring & Observability Stack](https://github.com/Ashikur14r/portfolio):** Set up Prometheus and Grafana to monitor server metrics and create custom dashboards.
 
 ---
 
-## 🔥 Building, one contribution at a time
+## 🛠️ Technical Arsenal
 
-<!-- Activity Heatmap with Dark/Light Mode Toggle -->
+### 💻 Programming & Web Development
 <p align="center">
-  <a href="https://github.com/ashikur14r">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashikur14r&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=39d353&area=true&hide_border=true#gh-dark-mode-only" alt="GitHub contribution activity graph heatmap" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashikur14r&bg_color=ffffff&color=1f2328&line=0969da&point=1a7f37&area=true&hide_border=true#gh-light-mode-only" alt="GitHub contribution activity graph heatmap" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,bootstrap&perline=9" alt="Programming Languages" />
 </p>
 
-<!-- Stats Cards with Dark/Light Mode Toggle -->
+### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikur14r&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117#gh-dark-mode-only" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikur14r&show_icons=true&theme=default&hide_border=true&rank_icon=github#gh-light-mode-only" height="165" alt="GitHub statistics" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur14r&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117#gh-dark-mode-only" height="165" alt="Most-used programming languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur14r&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="165" alt="Most-used programming languages" />
-</p>
-
-<!-- Streak Stats with Dark/Light Mode Toggle -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashikur14r&theme=github-dark-blue&hide_border=true&background=0d1117#gh-dark-mode-only" alt="GitHub contribution streak" />
-  <img src="https://streak-stats.demolab.com?user=ashikur14r&theme=github-light&hide_border=true#gh-light-mode-only" alt="GitHub contribution streak" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,bash,githubactions&perline=8" alt="DevOps & Cloud Tools" />
 </p>
 
 ---
 
-## 🌍 Profile Hit-Map (Visitor Tracker)
+## 📊 GitHub Dashboard
+
 <p align="center">
-  <em>Hover over the badge to see today's live hits!</em><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashikur14r&count_bg=%2358A6FF&title_bg=%230D1117&icon=github&icon_color=%23E7E7E7&title=Daily+%2F+Total+Hits&edge_flat=true" alt="Profile Hit Map Tracker" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashikur14r&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur14r&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashikur14r&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <em>Curious by nature. Building with purpose.</em>
+  <img src="https://raw.githubusercontent.com/Ashikur14r/Ashikur14r/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <em>Automate. Scale. Repeat.</em>
 </p>
