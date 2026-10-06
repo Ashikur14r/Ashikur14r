@@ -46,20 +46,3 @@
 <p align="center">
   <!-- Dark Mode Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur14r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff#gh-dark-mode-only" alt="Top Languages" height="190px"/>
-  
-  <!-- Light Mode Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur14r&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" height="190px"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashikur14r&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <em>"First, solve the problem. Then, write the code." — John Johnson</em>
-</p>
