@@ -78,40 +78,10 @@ I’m an aspiring DevOps and Cloud Engineer focused on automation and reliable s
 
 ---
 
-## 🧪 Learning Progress
-
-### Completed
-
-- **Linux Foundations**
-- **Git & GitHub**
-- **Networking Fundamentals**
-
-### Current Project
-
-**Automated Local Web Server Provisioning** — In progress  
-Using Bash, Ubuntu, Git, and Python’s HTTP server to automate local setup and verify network connectivity.
-
-### Next Learning Module
-
-**AWS Cloud Fundamentals** — Planned
 
 ---
 
-## 🚧 Upcoming Projects
 
-### 1. Automated Local Web Server Provisioning
-
-- **Status:** In Progress
-- **Tech:** Linux (Ubuntu), Bash, Git, Python HTTP Server
-- **Goal:** Automate local server setup, directory creation, Git initialization, and network verification.
-
-### 2. Secure Multi-Node Network Simulation & Troubleshooting
-
-- **Status:** Planned
-- **Tech:** VirtualBox, Linux Networking, UFW, tcpdump, Wireshark
-- **Goal:** Build an isolated two-node network, configure firewall rules, investigate connectivity issues, and document the troubleshooting process.
-
----
 
 ## 📊 GitHub Activity
 
