@@ -1,13 +1,5 @@
-<h1 align="center">Assalamualaikum, I am Ashikur Rahman! 👋</h1>
 
-<p align="center">
-  <img
-    src="assets/devops-hero.gif"
-    alt="DevOps and Cloud Infrastructure Animation"
-    width="100%"
-  />
-</p>
-<!-- <h1 align="center">Assalamualaikum, I am Ashikur Rahman! 👋</h1> -->
+<h1 align="center">Assalamualaikum, I am Ashikur Rahman! 👋</h1>
 
 <p align="center">
   <strong>
