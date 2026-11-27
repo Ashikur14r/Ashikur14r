@@ -1,6 +1,15 @@
 <h1 align="center">Assalamualaikum, I am Ashikur Rahman! 👋</h1>
 
 <p align="center">
+  <img
+    src="assets/devops-hero.gif"
+    alt="DevOps and Cloud Infrastructure Animation"
+    width="100%"
+  />
+</p>
+<!-- <h1 align="center">Assalamualaikum, I am Ashikur Rahman! 👋</h1> -->
+
+<p align="center">
   <strong>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+Engineering+Learner;SRE+Learner;Automation+Enthusiast" alt="Typing animation" />
   </strong><br>
